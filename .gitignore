@@ -2,3 +2,6 @@ mlruns/
 
 venv/
 
+mlartifacts/
+
+
